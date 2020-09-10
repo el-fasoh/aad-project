@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trial Project</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="github_link">Github Link</string>
+    <string name="submit">Submit</string>
+    <string name="email_address">Email Address</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="cannot_be_empty">Cannot be blank</string>
+    <string name="submission_success">Submission Successful</string>
+    <string name="unknown_error">Unknown error encountered</string>
+</resources>
